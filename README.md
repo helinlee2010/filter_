@@ -1,7 +1,10 @@
 # Filter Search
 This webpage displays a music playlist. Users can search a song by typing the title or artist name, a filtered results will be shown automatically.
 
-# Demo Image
+## Live Demo
+https://helinlee2010.github.io/filter_search/
+
+# Demo Images
 
 <img src="DemoImages/FilterSearchDemo.png" width=650px> </img>
 
