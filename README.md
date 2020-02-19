@@ -15,3 +15,6 @@ https://helinlee2010.github.io/filter_search/
 # Search by artist name (Not case sensitive)
 <img src="DemoImages/FilterSearchDemo1.png" width=650px> </img>
 
+## Framework used
+Materialize 👍
+
